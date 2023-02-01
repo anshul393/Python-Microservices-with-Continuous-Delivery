@@ -10,3 +10,4 @@ It is a repository for myself to learn how to build, deploy microservices in pyt
 1. Create a python virtual environment `python3 -m venv ~/.venv` or `virtualenv ~/.venv`(After creating virtualenv, source the python virtual environment in the bash as well by appending inside `vim ~/.bashrc`  `source ~/.venv/bin/activate`)
 2. Create empty files `Makefile`,`Dockerfile`,`requirements.txt`,`main.py`,`mylib/__init__.py`
 3. Populate `Makefile`
+4. Create Continous Integration
