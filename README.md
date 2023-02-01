@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/anshul393/Python-Microservices-with-Continuous-Delivery/actions/workflows/devops.yml/badge.svg)](https://github.com/anshul393/Python-Microservices-with-Continuous-Delivery/actions/workflows/devops.yml)
+
 # Python-Microservices-with-Continuous-Delivery
 It is a repository for myself to learn how to build, deploy microservices in python
 
