@@ -11,3 +11,4 @@ It is a repository for myself to learn how to build, deploy microservices in pyt
 2. Create empty files `Makefile`,`Dockerfile`,`requirements.txt`,`main.py`,`mylib/__init__.py`
 3. Populate `Makefile`
 4. Create Continous Integration
+5. Build CLI using fire library './cliFire.py --help'
